@@ -1,4 +1,5 @@
-# taskinter
+# QR code and BarCode generate and Scan using flutter
+
 
 A new Flutter project.
 
